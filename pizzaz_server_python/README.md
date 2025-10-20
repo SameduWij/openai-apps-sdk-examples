@@ -1,6 +1,6 @@
 # Pizzaz MCP server (Python)
 
-This directory packages a Python implementation of the Pizzaz demo server using the `FastMCP` helper from the official Model Context Protocol SDK. It mirrors the Node example and exposes each pizza widget as both a resource and a tool.
+This direc[text](../node_modules)tory packages a Python implementation of the Pizzaz demo server using the `FastMCP` helper from the official Model Context Protocol SDK. It mirrors the Node example and exposes each pizza widget as both a resource and a tool.
 
 ## Prerequisites
 
